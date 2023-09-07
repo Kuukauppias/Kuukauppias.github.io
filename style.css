@@ -1,6 +1,8 @@
 body {background-color: rgb(195, 252, 255);
 }
-h1, h2, h3 {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h1, h2, h3 {font-family:'Gill Sans', 'Gill Sans MT',
+ Calibri, 'Trebuchet MS', sans-serif;}
 body {font-family:Georgia, 'Times New Roman', Times, serif
 }
+p {border: 1px solid;}
 h1 {color: rgb(255, 0, 128);}
