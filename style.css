@@ -1,23 +1,41 @@
-body {background-color: rgb(195, 252, 255);
-font-family:Georgia, 'Times New Roman', Times, serif
+body 
+    {background-color: rgb(243, 252, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
 
-.Header {font-family:'Gill Sans', 'Gill Sans MT',
- Calibri, 'Trebuchet MS', sans-serif;}
-
-p {border: 1px solid;padding: 2px;outline-color: rgb(0, 140, 255); outline-style: groove;}
-h1 {color: rgba(255, 0, 0, 0.822);}
-
-.topnav {background-color:black;
-overflow: hidden;
+.Header {
+    font-family:'Gill Sans', 'Gill Sans MT',
+    Calibri, 'Trebuchet MS', sans-serif; text-shadow: black 1px 1px 15px;
+    border-color:burlywood;
+    border-width: 10px;
+    border-style: ridge;
+    border-radius: 16px;
+    padding: 6px;
 }
 
-.topnav a {float: left;
-color:#f2f2f2;
-text-align: center;
-padding: 12px 16px ;
-text-decoration: none;
-font-size: 20px;
+p 
+    {font-family: Arial, Helvetica, sans-serif;
+    font: size 16px;
+
+}
+
+#firstH 
+    {color: rgba(255, 0, 0, 0.822);
+     text-shadow:rgba(255, 0, 0, 0.822) 1px 1px 2px
+    }
+
+.topnav 
+    {background-color:black;
+    overflow: hidden;
+}
+
+.topnav a 
+    {float: left;
+    color:#f2f2f2;
+    text-align: center;
+    padding: 12px 16px ;
+    text-decoration: none;
+    font-size: 20px;
 }
 
 .topnav a:hover {
