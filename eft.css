@@ -28,6 +28,7 @@
         background-color: #0e0e0e;
         margin: 0;
         font-size: large;
+        font-family: sans-serif;
     }
 
     .video {float:right;}

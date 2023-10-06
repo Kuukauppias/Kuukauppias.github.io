@@ -1,11 +1,12 @@
 body 
-    {background-color: rgb(243, 252, 255);
-    font-family:Georgia, 'Times New Roman', Times, serif
+    {background-image:url(https://www.wallpaperup.com/uploads/wallpapers/2014/08/05/417205/03b577ef84616d5e097223a4df06bc13-1000.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: burlywood
 }
 
 .Header {
     font-family:'Gill Sans', 'Gill Sans MT',
-    Calibri, 'Trebuchet MS', sans-serif; text-shadow: black 1px 1px 15px;
+    Calibri, 'Trebuchet MS', sans-serif; text-shadow: burlywood 1px 1px 15px;
     border-color:burlywood;
     border-width: 10px;
     border-style: ridge;
@@ -15,14 +16,11 @@ body
 
 p 
     {font-family: Arial, Helvetica, sans-serif;
-    font: size 16px;
+    font: large;
 
 }
 
-#firstH 
-    {color: rgba(255, 0, 0, 0.822);
-     text-shadow:rgba(255, 0, 0, 0.822) 1px 1px 2px
-    }
+a:link {color: pink }
 
 .topnav 
     {background-color:black;
